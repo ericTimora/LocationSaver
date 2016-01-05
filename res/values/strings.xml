@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationSaverGUI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="map_cont_desc">map placeholder</string>
+    <string name="save_but_label">Save current location</string>
+    <string name="list_but_label">View list</string>
+    <string name="group_label">Group</string>
+    <string name="add_photo_label">Add photo</string>
+    <string name="save_changes_label">Save Changes</string>
+    <string name="name_label">Location Name</string>
+    <string name="description_label">Description</string>
+    <string name="edit_name_hint">Click to edit name</string>
+    <string name="edit_description_hint">Click to edit description</string>
+    <string name="map_button">Map view</string>
+    <string name="title_activity_list">ListActivity</string>
+
+</resources>
